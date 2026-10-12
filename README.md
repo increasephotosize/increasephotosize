@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi, I'm Trilok 👋
+I build **[IncreasePhotoSize](https://increasephotosize.com)**, free browser-based tools to resize photos for online forms and Indian exams.
 
-<!--
-**increasephotosize/increasephotosize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Popular tools**
+- [Increase Image Size in KB](https://increasephotosize.com/increase-image-size-in-kb)
+- [Increase Image Size in MB](https://increasephotosize.com/increase-image-size-in-mb)
+- [Increase JPG Size](https://increasephotosize.com/increase-jpg-size)
+- [SSC Photo & Signature Resizer](https://increasephotosize.com/ssc-photo-signature-resizer)
+- [IBPS Photo & Signature Resizer](https://increasephotosize.com/ibps-photo-signature-resizer)
+- [All Exam Photo & Signature Tools](https://increasephotosize.com/tools)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything runs client-side in your browser. No uploads, no sign-up, no watermark.
